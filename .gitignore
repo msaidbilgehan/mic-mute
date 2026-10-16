@@ -10,6 +10,7 @@
 # Claude Code
 .claude/worktrees
 .claude/settings.local.json
+.claude/scheduled_tasks.lock
 
 # System
 .DS_Store
